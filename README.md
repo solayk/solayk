@@ -18,7 +18,9 @@ I am a developer since Oct 2020.
 - Hadoop
 - Machine Learning
 
+### 🔭 Currently Working On ...
 
+- Finance SNS Platform
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolayk&count_bg=%230D94FB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
