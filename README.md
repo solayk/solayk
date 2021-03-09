@@ -10,19 +10,21 @@ I am a developer since Oct 2020.
 
 ### 🚀 Tech Stack
 
-- Java, Python
+- Java, Spring
 - JavaScript, React, Redux
-- MySQL, Oracle SQL
+- MySQL, Oracle
+- Python, Pandas
+- Linux
 - AWS
 
 ### 🌱 Currently Learning ...
 
-- Hadoop
 - Machine Learning
+- Django
 
 ### 🔭 Currently Working On ...
 
-- Finance SNS Platform
+- Finance Platform
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolayk&count_bg=%230D94FB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
