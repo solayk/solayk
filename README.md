@@ -2,7 +2,7 @@
 
 I am a developer since Oct 2020.
 
-[CLICK to see my portfolio](https://github.com/solayk/ant_frontend/files/6115785/_._20210310.pdf)
+PORTFOLIO : [CLICK HERE](https://github.com/solayk/ant_frontend/files/6115785/_._20210310.pdf)
 
 ### ✍️ Blog
 
