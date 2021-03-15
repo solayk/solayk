@@ -1,7 +1,5 @@
 ### 👋 Hi there,
 
-I am a developer since Oct 2020.
-
 PORTFOLIO : [CLICK HERE](https://github.com/solayk/hayera/files/6141340/_20210315.pdf)
 
 ### ✍️ Blog
@@ -13,14 +11,13 @@ PORTFOLIO : [CLICK HERE](https://github.com/solayk/hayera/files/6141340/_2021031
 - Java, Spring
 - JavaScript, React, Redux
 - MySQL, Oracle
-- Python, Pandas
-- Linux
+- Python
 - AWS
 
 ### 🌱 Currently Learning ...
 
-- Machine Learning
 - Django
+- Machine Learning
 
 ### 🔭 Currently Working On ...
 
